@@ -1,2 +1,3 @@
 # odin-recipes
-HTML / recipes project from The Odin Project
+
+In this project we build a recipes website. We do this to practice HTML and a little Git/GitHub as well.
