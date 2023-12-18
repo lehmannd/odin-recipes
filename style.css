@@ -1,0 +1,16 @@
+
+* {
+    font-family: Papyrus;
+    text-align:center;
+    background-color: antiquewhite;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .directions li{
+    text-align:left
+  }
